@@ -1,0 +1,4 @@
+id,npep,supplyT_F,storageT_F,onFrac,offFract,onT,offT,outletLoadUpT,onFractLoadUp,offFractLoadUp,onLoadUpT,offLoadUpT,onFracShed,offFractShed,onShedT,offShedT,schematic,recirc_flow_gpm,recirc_return_temp,doLoadShift,compRuntime_hr
+case1,297,122,160,0.16,0.16,122,160,160,0.16,0.16,122,160,0.16,0.16,122,160,mprtp,15,115,False,16
+case2,297,122,160,0.16,0.16,122,160,160,0.16,0.16,122,160,0.16,0.16,122,160,sprtp,15,115,False,16
+case3,297,122,160,0.16,0.16,122,160,160,0.16,0.16,122,160,0.16,0.16,122,160,swingtank_er,15,115,False,16

@@ -1,0 +1,4 @@
+,id,npep,supplyT_F,storageT_F,onFrac,offFract,onT,offT,outletLoadUpT,onFractLoadUp,offFractLoadUp,onLoadUpT,offLoadUpT,onFracShed,offFractShed,onShedT,offShedT,schematic,recirc_flow_gpm,recirc_return_temp,doLoadShift,compRuntime_hr,Storage Size (G),capacity (kBTU/hr),Rough Oversize Amount (G)
+0,case1,297,122,160,0.16,0.16,122,160,160,0.16,0.16,122,160,0.16,0.16,122,160,mprtp,15,115,False,16,3281.4801528405374,358.05339393750006,2700
+1,case2,297,122,160,0.16,0.16,122,160,160,0.16,0.16,122,160,0.16,0.16,122,160,sprtp,15,115,False,16,912.7262471120578,358.05339393750006,50
+2,case3,297,122,160,0.16,0.16,122,160,160,0.16,0.16,122,160,0.16,0.16,122,160,swingtank_er,15,115,False,16,1030.3026965706465,336.59514784036327,100
