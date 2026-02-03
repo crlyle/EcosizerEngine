@@ -1049,7 +1049,7 @@ class SimulationRun:
                     new_column_names.append(column_names[i])
                     new_columns.append(columns[i])
             column_names = new_column_names
-            columns = columns
+            columns = new_columns
 
         # for i in range(len(column_names)):
         #     print(f"{column_names[i]} = {len(columns[i])}")
